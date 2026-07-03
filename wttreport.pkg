@@ -1,0 +1,14 @@
+v 0.1.9
+d wttreport: Batch Welch independent-samples t-test reporting pipeline
+d
+d wttreport runs the complete Welch independent-samples t-test reporting workflow.
+d It can process one or more two-category grouping variables and create
+d complete per-group reports or component table, figure, summary, results, and mapping outputs.
+d
+f wttreport.ado
+f wttreport.sthlp
+f wttreport_example.do
+f README.md
+f LICENSE
+f stata.toc
+f wtt_example.dta
